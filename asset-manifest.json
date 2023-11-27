@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asish-bmi/static/css/main.f855e6bc.css",
+    "main.js": "/asish-bmi/static/js/main.f95ddc20.js",
+    "static/js/675.717cccdd.chunk.js": "/asish-bmi/static/js/675.717cccdd.chunk.js",
+    "static/media/resume.pdf": "/asish-bmi/static/media/resume.ab8257cfa08444086471.pdf",
+    "index.html": "/asish-bmi/index.html",
+    "main.f855e6bc.css.map": "/asish-bmi/static/css/main.f855e6bc.css.map",
+    "main.f95ddc20.js.map": "/asish-bmi/static/js/main.f95ddc20.js.map",
+    "675.717cccdd.chunk.js.map": "/asish-bmi/static/js/675.717cccdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f95ddc20.js"
+  ]
+}
