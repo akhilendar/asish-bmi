@@ -38,8 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://asish-tammana.github.io/2wJRC9E4ktGUSKJ6/",
+  "homepage": "https://akhilendar.github.io/asish-bmi/",
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "5.0.0"
   }
 }
